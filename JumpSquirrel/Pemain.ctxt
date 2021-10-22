@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Pemain
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MainSquirrelJump\ here.\r\n\ Tugas\ 2\ PBO\r\n\ @Faris\ Rasyid\r\n\ @JumpSquirrel\r\n
+comment1.params=nama
+comment1.target=Pemain(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Pemain\r\n
+comment2.params=
+comment2.target=java.lang.String\ getNama()
+comment3.params=nama
+comment3.target=void\ setNama(java.lang.String)
+comment4.params=
+comment4.target=int\ getNilai()
+comment5.params=nilaiBaru
+comment5.target=void\ setNilai(int)
+comment6.params=max
+comment6.target=void\ buatSquirrel(int)
+comment7.params=arah
+comment7.target=void\ lompat(java.lang.String)
+numComments=8
